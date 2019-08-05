@@ -1,0 +1,12 @@
+$("h2#portfolioModal1").text("placement");
+$("p#portfolioModal1").text("I was born in a small town Vinnytsia, central Ukraine. It is very nice here. After studying at school I moved to Kiev and study at KPI. Here is a great community and I get my technical experience here");
+$("h2#portfolioModal2").text("instruments");
+$("p#portfolioModal2").text("Most of the time I work with HTML, CSS, JS, PHP and MySQL, Wordpress. I also have average experience with Node.js, React, React Native, Vue.js, Django, Socket.io . I also work and have experience in C++, C#, Go, Pascal, Python, Ruby, Kotlin. Recently started making bots in Telegram and working with CMS Mezzanine.");
+$("h2#portfolioModal3").text("achievements");
+$("p#portfolioModal3").text("Has won school, city, regional computer science competitions. I have the first place on the regional defense of scientific works and the third on the all-Ukrainian");
+$("h2#portfolioModal4").text("games");
+$("p#portfolioModal4").text("Tried to develop games at Unity and GameMaker Studio, but honestly I have basic knowledge. For me, I like to play Heroes of the Storm, and I also enjoy World of Warcraft.");
+$("h2#portfolioModal5").text("my sites");
+$("p#portfolioModal5").html('<ul><li>My project for Small Academy of Sciences - <a href="http://ms.adr.com.ua/" target="_blank">Make Solution</a></li><li>One of my sites (in development, only start-page works normally) - <a href="https://mslauncher.000webhostapp.com/" target="_blank">MSLauncer</a></li><li>My first work (test version) - <a href="https://shoptestingtransfer.000webhostapp.com/" target="_blank">Frame.Work Shop</a></li><li>This site - <a href="#">Freelancer</a></li></ul>');
+$("h2#portfolioModal6").text("yellow submarine");
+$("p#portfolioModal6").html('Here I will tell about my hobbies. I like to play football and Uno. In my spare time I play computer games. At all other times I study and sit at a laptop, doing another site.');
